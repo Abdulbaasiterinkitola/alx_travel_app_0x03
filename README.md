@@ -1,2 +1,3 @@
-# alx_travel_app_0x03
-10th ALX BE Prodev Task
+## 10th ALX BE Prodev Task
+
+Configure Celery with RabbitMQ to handle background tasks and implement an email notification feature for bookings.
